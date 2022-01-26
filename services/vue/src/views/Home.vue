@@ -55,7 +55,7 @@ export default {
                         self.$router.push('/login');
                         break;
                       case 400:
-                        indow.localStorage.setItem('Authorization', '');
+                        window.localStorage.setItem('Authorization', '');
                         window.localStorage.setItem('Refresh', '');
                         self.$router.push('/login');
                         break;
