@@ -1,2 +1,2 @@
 # authorization
-Athorization with NodeJs Vue Firebase
+Athorization with NodeJs Vue Firebase Jwt Joi Docker
